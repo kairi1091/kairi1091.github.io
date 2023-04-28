@@ -38,3 +38,4 @@ categories:
 
 [Yahoo! JAPAN](https://www.yahoo.co.jp/)
 
+![](/assets/images/onepiece11_arlong.png)
