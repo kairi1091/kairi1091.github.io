@@ -29,3 +29,5 @@ categories:
 ![](/assets/images/onepiece11_arlong.png)
 
 [![](/assets/images/onepiece11_arlong.png)](https://www.yahoo.co.jp/)
+
+[![](assets/images/ダウンロード.jpg)](https://www.ea.com/ja-jp/games/apex-legends)
