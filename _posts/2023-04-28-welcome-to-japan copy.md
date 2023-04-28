@@ -36,5 +36,5 @@ categories:
 - 穴抜けのひも1枚
 - ポケモン入れ替え4枚
 
-[Yahoo! JAPAN](https://www.yahoo.co.jp)
+[Yahoo! JAPAN](https://www.yahoo.co.jp/)
 
