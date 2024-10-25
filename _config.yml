@@ -3,7 +3,7 @@ title: "ペタペタパンケーキポートフォリオ"
 timezone: Tokyo
 baseurl: "/"
 permalink: "/:title/"
-logo: 'assets/images/名称未設定のデザイン.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
