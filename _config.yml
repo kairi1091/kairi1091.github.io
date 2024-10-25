@@ -4,7 +4,7 @@ timezone: Tokyo
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/pancake_icon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
