@@ -54,3 +54,5 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+
+destination: _site
