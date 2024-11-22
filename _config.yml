@@ -8,7 +8,8 @@ favicon: 'assets/images/pancake_icon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
-locale: ja_jp
+locale: ja_JP
+og_image: /assets/images/ogp/default.png
 lang: ja_jp
 feed_items: 10
 feed_update_period: daily
