@@ -47,9 +47,9 @@
 {%- endif -%}
 
 {%- if page.layout =="post" -%}
-{%- assign page_large_image = page.og_image | default: "/assets/images/OGP/note.png" | absolute_url -%}
+{%- assign page_large_image = page.og_image | default: site.og_image | absolute_url -%}
 {%- else -%}
-{%- assign page_large_image = page.og_image | default: "/assets/images/OGP/site.png" | absolute_url -%}
+{%- assign page_large_image = page.og_image | default: site.og_image | absolute_url -%}
 {%- endif -%}
 
 {%- assign page_large_image = page_large_image | escape -%}
