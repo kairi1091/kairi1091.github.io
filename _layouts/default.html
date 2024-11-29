@@ -6,9 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
 
-<title>{{ page.title }} | {{site.title}}</title>
-
-{% seo %}
+{% include seo.html %}
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
@@ -26,9 +24,6 @@ gtag('js', new Date());
 gtag('config', '{{site.ganalytics}}');
 </script>
 {% endif %}
-
-<meta name="google-site-verification" content="c8UmFJQ-qsAgjXBoVtf13N2Qnf2hZzIrVz5ikNWNr60" />
-
 </head>   
     
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
