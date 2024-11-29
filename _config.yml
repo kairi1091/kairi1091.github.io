@@ -1,4 +1,4 @@
-title: "ペタペタパンケーキポートフォリオ"
+title: "ペタパンポートフォリオ"
 # email: wowthemesnet@gmail.com
 timezone: Tokyo
 baseurl: ""
@@ -21,32 +21,22 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: 
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    name: ペタパン
+    display_name: ペタパン
+    avatar: 'assets\images\petapan.png'
+    web: https://kairi1091.github.io/
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
-social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+# social:
+#   instagram: https://www.instagram.com/bootstrapstarter/
+#   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+#   twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
